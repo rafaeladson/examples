@@ -1,0 +1,8 @@
+These are a bunch of sample projects that I show on my blog or use for personal stuff.
+
+The projects are:
+
+StoryboardTesting: A sample storyboard application with support for testing.
+You can see the post at http://yetanotherdevelopersblog.blogspot.com/2012/03/how-to-test-storyboard-ios-view.html
+
+EmptyTestProject: An empty eclipse project with an assertTruth test. Will be used to speed up things on dojos.
