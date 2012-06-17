@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hiraganaTranslator</string>
+    <string name="translate">Translate!</string>
+
+    <string name="a">あ</string>
+    <string name="i">い</string>
+    <string name="u">う</string>
+    <string name="e">え</string>
+    <string name="o">お</string>
+
+    <string name="ka">か</string>
+    <string name="ki">き</string>
+    <string name="ku">く</string>
+    <string name="ke">け</string>
+    <string name="ko">こ</string>
+
+    <string name="kya">きゃ</string>
+    <string name="kyu">きゅ</string>
+    <string name="kyo">きょ</string>
+
+    <string name="ya">や</string>
+    <string name="yu">ゆ</string>
+    <string name="yo">よ</string>
+
+    <string name="sa">さ</string>
+    <string name="shi">し</string>
+    <string name="su">す</string>
+    <string name="se">せ</string>
+    <string name="so">そ</string>
+
+    <string name="invalid_hiragana_error">This is an invalid hiragana!</string>
+
+
+</resources>

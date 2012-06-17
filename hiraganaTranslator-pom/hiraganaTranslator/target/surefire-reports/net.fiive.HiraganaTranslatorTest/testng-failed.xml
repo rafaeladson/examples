@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [net.fiive.HiraganaTranslatorTest]">
+  <test name="Command line test(failed)" preserve-order="true">
+    <classes>
+      <class name="net.fiive.HiraganaTranslatorTest">
+        <methods>
+          <include name="testHiraganaNotFound"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

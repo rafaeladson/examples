@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACTIVITY_ENTRY_NAME</string>
+
+    <string name="error_alert_title">Error!</string>
+    <string name="continue_verb">Continue</string>
+
+
+</resources>
